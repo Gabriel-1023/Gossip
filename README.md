@@ -7,6 +7,7 @@
 结果包括节点个数，收敛轮数，误差
 
 输出结果保存在out内的 k值-收敛轮数、误差.csv 和 节点个数-收敛轮数、误差.csv 
+
 在python环境下运行 python作图.py 来生成图表
 python库环境 pandas matplotlib
 
